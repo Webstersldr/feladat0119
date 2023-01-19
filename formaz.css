@@ -1,0 +1,66 @@
+body
+{
+    background-color: #FFCCAA;
+}
+
+a
+{
+    color: A04000;
+}
+
+p
+{
+    font-family: "Tahoma";
+    font-weight: 14px;
+    text-align: justify;
+}
+
+#vorosmarty
+{
+    float: left;
+    width: 150px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+h1
+{
+    
+    color: #A04000;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+#elsobekezdes
+{
+    text-align: justify;
+    font-weight: bold;
+}
+
+#kep2
+{
+    float: right;
+    width: 195px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#kettes
+{
+    text-align: center;
+}
+
+#harmas
+{
+    vertical-align: bottom;
+    text-align: right;
+}
+
+table
+{
+    width: 100%;
+}
